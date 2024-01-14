@@ -32,6 +32,9 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@sveltejs/adapter-vercel": "^4.0.4",
+		"mdsvex": "^0.11.0",
+		"node-fetch": "^3.3.2",
 		"svelte-swiper": "^1.0.1"
 	}
 }
